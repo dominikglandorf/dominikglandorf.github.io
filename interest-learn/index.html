@@ -66,7 +66,7 @@
                     $.cookie("api-key", $(this).val(), { expires: 365, path: '/' }); // save to cookie
                 });
 
-                $("#output, #explanation").on("mouseup", function() {
+                $("#output, #explanation").on("mouseup touchend", function() {
                     const selectedText = window.getSelection().toString();
                     if (selectedText.length > 0) {
                         $("#selection").text(selectedText);
