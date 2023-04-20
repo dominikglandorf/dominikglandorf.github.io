@@ -33,6 +33,7 @@
             }
 
             async function getText() {
+                messages = []
                 language = $("#language").val();
                 niveau = $("#niveau").val();
                 topic = $("#topic").val();
@@ -91,6 +92,9 @@
                         <option>English</option>
                         <option selected="selected">French</option>
                         <option>Spanish</option>
+                        <option>Italian</option>
+                        <option>German</option>
+                        <option>Czech</option>
                     </select>
                 
                 Proficiency: <select id="niveau">
