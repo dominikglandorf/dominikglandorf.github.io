@@ -59,6 +59,17 @@
                 $("#lookup").hide();
             }
 
+            function checkSelection() {
+                const selectedText = window.getSelection().toString();
+                if (selectedText.length > 0) {
+                    $("#selection").text(selectedText);
+                    $("#lookup").show(); 
+                } else {
+                    $("#lookup").hide();
+                }
+            }
+
+
             $(function() {
                 apiKey = $.cookie("api-key"); // get potentially existing apiKey from cookie
                 $('#api-key').val(apiKey ? apiKey : ""); // set apiKey field
@@ -66,15 +77,8 @@
                     $.cookie("api-key", $(this).val(), { expires: 365, path: '/' }); // save to cookie
                 });
 
-                $("#output, #explanation").on("mouseup touchend", function() {
-                    const selectedText = window.getSelection().toString();
-                    if (selectedText.length > 0) {
-                        $("#selection").text(selectedText);
-                        $("#lookup").show(); 
-                    } else {
-                        $("#lookup").hide();
-                    }
-                });
+                // $("#output, #explanation").on("mouseup touchend", checkSelection);
+                var intervalId = setInterval(checkSelection, 1500);
             });
         </script>
     </head>
