@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: http://dogl.de/sitemap.xml
