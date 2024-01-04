@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dominik Glandorf</title>
+    <link>http://dogl.de/blog/</link>
+    <description>Recent content on Dominik Glandorf</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>&amp;copy; 2023 Dominik Glandorf</copyright>
+    <lastBuildDate>Wed, 03 Jan 2024 16:20:36 +0100</lastBuildDate>
+    <atom:link href="http://dogl.de/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Semester at Yale</title>
+      <link>http://dogl.de/blog/my-semester-at-yale/</link>
+      <pubDate>Wed, 03 Jan 2024 16:20:36 +0100</pubDate>
+      <guid>http://dogl.de/blog/my-semester-at-yale/</guid>
+      <description>I vividly remember the joy of receiving the nomination from the International Office in Tübingen to study at Yale University in November 2022.</description>
+    </item>
+  </channel>
+</rss>
