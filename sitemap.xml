@@ -4,8 +4,22 @@
   
     
       <url>
+            <loc>http://dogl.de/about/</loc>
+            <lastmod>2026-06-25T00:00:00+00:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
             <loc>http://dogl.de/</loc>
-            <lastmod>2026-06-19T00:00:00+00:00</lastmod>
+            <lastmod>2026-06-25T00:00:00+00:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>http://dogl.de/projects/</loc>
+            <lastmod>2026-06-25T00:00:00+00:00</lastmod>
           </url>
     
   
@@ -13,20 +27,6 @@
       <url>
             <loc>http://dogl.de/publications/</loc>
             <lastmod>2026-06-19T00:00:00+00:00</lastmod>
-          </url>
-    
-  
-    
-      <url>
-            <loc>http://dogl.de/projects/</loc>
-            <lastmod>2024-12-02T00:00:00+00:00</lastmod>
-          </url>
-    
-  
-    
-      <url>
-            <loc>http://dogl.de/about/</loc>
-            <lastmod>2024-01-12T00:00:00+00:00</lastmod>
           </url>
     
   

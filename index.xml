@@ -12,28 +12,28 @@
 			<copyright>&amp;copy; 2023 Dominik Glandorf</copyright>
 		
 		
-			<lastBuildDate>Fri, 19 Jun 2026 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Thu, 25 Jun 2026 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="http://dogl.de/index.xml" rel="self" type="application/rss+xml" />
 			<item>
-				<title>Publications</title>
-				<link>http://dogl.de/publications/</link>
-				<pubDate>Fri, 19 Jun 2026 00:00:00 +0000</pubDate>
-				<guid>http://dogl.de/publications/</guid>
+				<title>About</title>
+				<link>http://dogl.de/about/</link>
+				<pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>http://dogl.de/about/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>Projects</title>
 				<link>http://dogl.de/projects/</link>
-				<pubDate>Mon, 02 Dec 2024 00:00:00 +0000</pubDate>
+				<pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
 				<guid>http://dogl.de/projects/</guid>
 				<description></description>
 			</item>
 			<item>
-				<title>About</title>
-				<link>http://dogl.de/about/</link>
-				<pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
-				<guid>http://dogl.de/about/</guid>
+				<title>Publications</title>
+				<link>http://dogl.de/publications/</link>
+				<pubDate>Fri, 19 Jun 2026 00:00:00 +0000</pubDate>
+				<guid>http://dogl.de/publications/</guid>
 				<description></description>
 			</item>
 			<item>
